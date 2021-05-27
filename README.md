@@ -12,7 +12,7 @@ The task is to develop a training application for braille using an Arduino. Conn
 ![Braille Combinations](images/braille_comb.jpg)<br/>
 
 ## Introduction
-Braille is a tactile reading and writing system, mainly used by blind people and those who are visually impaired. Raised dots are used to represent letters of the alphabet, punctuation, music, and even mathematical and scientific symbols.
+Braille is a tactile reading and writing system, but mainly used by blind people and those who are visually impaired. Raised dots are used to represent letters of the alphabet, punctuation, music, and even mathematical and scientific symbols.
 
 Contrary to popular belief, braille is not its own language but rather an alternative set of symbols, like a code. Because of this, braille can be developed for any language.
 
@@ -25,11 +25,11 @@ One of the biggest myths when it comes to learning braille is that it will be to
 ## Methodology
 Braille Trainer consist of 3 Major parts along with it’s other components and these components interact with each other accordingly the given instruction. 
 
-On start LCD will Display Welcome Statement or Game start statement
-LCD will display any alphabetic letter on screen like Z,A,C,D.
-After Display of alphabetic letter user will insert the code of respective letter using button 6 buttons attach with it.
-If user press the correct combinations of button display will show answer correct and 10 points will be given to user.
-On wrong answers there will be 3 tries for user After three attempts game will be over
+1. On start LCD will Display Welcome Statement or Game start statement
+2. LCD will display any alphabetic letter on screen like Z,A,C,D.
+3. After Display of alphabetic letter user 4. will insert the code of respective letter using button 6 buttons attach with it.
+4. If user press the correct combinations of button display will show answer correct and 10 points will be given to user.
+5. On wrong answers there will be 3 tries for user After three attempts game will be over
 On game ending user will see the screen back to start position
 User have n number of lives.
 
@@ -48,13 +48,5 @@ To develop whole system we need list of components given below
 5. Breadboard
 6. Resistors of 1k ohm or 3.9k ohm 
 
-
 ## References
-[1]P. Duc, "React Framework: Concept and Implementation", Bachelor, Turku University Of Applied Sciences, 2020.<br>
-[2]S. Aggarwal, "Modern Web-Development using ReactJS", Department of Information Technology, Northern India Engineering College, 2018.<br>
-[3]N. Naim, "ReactJS: An Open-Source JavaScript Library for Front-end Development", Bachelor, Metropolia University of Applied Sciences, 2017.<br>
-[4]E. Thorén, "Usage of Angular from developer’s perspective", Bachelor, Faculty of Computing, Blekinge Institute of Technology, 2017.<br>
-[5]M. Sultan, "Angular and the Trending Frameworks of Mobile and Web-based Platform Technologies: A Comparative Analysis", Future Technologies Conference (FTC), 2017.<br>
-[6]S. Ambulkar, "Angular JS", Phd, Department of CSE, GCOE, Amravati, India, 2016.<br>
-[7]E. Wohlgethan, "Supporting Web Development Decisions by Comparing Three Major JavaScript Frameworks: Angular, React and Vue. js.", PhD, Hochschule für Angewandte Wissenschaften Hamburg, 2018.<br>
-[8]R. Mohammadi, “Performance, and Efficiency based Comparison of Angular and React.” A case study of Single page application (SPA), ministry of Higher Education Herat University computer science facility. <br>
+
