@@ -44,10 +44,10 @@ To develop whole system we need list of components given below
 
 1. Arduino Uno With Complete Box
 2. 6 Button Keyboard or only Buttons
-3. LED/LCD Display with dimension of 16*2/16*1 with I2C Display
+3. Display Watterott MI0283QT-2
 4. Wires
 5. Breadboard
-6. Resistors of 1k ohm or 3.9k ohm 
+6. 6 Resistors of 1k ohm and 3.9k ohm (Both Required)
 
 # References
 1. Image source: 
