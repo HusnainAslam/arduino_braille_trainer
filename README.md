@@ -55,3 +55,25 @@ https://supercarers.com/blog/learning-braille-later-in-life
 2. https://www.nhs.uk/conditions/vision-loss/
 3. https://www.resna.org/sites/default/files/legacy/conference/proceedings/2004/Papers/StudentDesign/Winners/BrailleTrainer.html
 
+# Implementation Phase
+## Arduino Code implementation and results 
+- Six Button facility on screen or can be attached externally on bread board (code for both option is available)
+- On Starting screen random alphabets apears then actual Game/program start
+- User enter specific code for the given alphabet either through screen of external buttons
+- Program checks the combination if it is entered correctly or not 
+- Wrong entry of program will end the game and restart it.
+- Right Entry gives point to user and continue the game until the wrong combination is entered.
+- User have n lives and can play as much as he wants.
+
+# Screenshot of Code with on touch compatibility
+![Braille Trainer With LCD Touch pad](images/brallie_lcd.png)<br/>
+
+# Screenshot of Code with external button compatibility
+![Braille Trainer With external Buttons](images/brallie_button.png)<br/>
+
+# Intallation Guide
+1. Click the Clone or Download button above and download the zip, or if you are a github user, clone this repo, or fork it!
+2. Unzip arduino_braille_trainer.zip in your Documents/Arduino folder. This properly installs your files.
+3. ![Open the required code file](images/file_open.png)
+
+
