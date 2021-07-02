@@ -8,12 +8,12 @@ int score = 0;
 
 
 // constants won't change. They're used here to set pin numbers:
-const int buttonPin1 = 2;     // the number of the pushbutton pin
-const int buttonPin2 = 3;
-const int buttonPin3 = 4;
-const int buttonPin4 = 5;
-const int buttonPin5 = 6;
-const int buttonPin6= 7;
+const int buttonPin1 = 7;     // the number of the pushbutton pin
+const int buttonPin2 = 8;
+const int buttonPin3 = 9;
+const int buttonPin4 = 10;
+const int buttonPin5 = 11;
+const int buttonPin6= 12;
 const int ledPin = 13;
 
 // variables will change:
