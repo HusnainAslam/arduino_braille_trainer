@@ -65,3 +65,8 @@ https://supercarers.com/blog/learning-braille-later-in-life
 - Wrong entry of program will end the game and restart it.
 - Right Entry gives point to user and continue the game until the wrong combination is entered.
 - User have n lives and can play as much as he wants.
+
+# Screenshot of Code with on touch compatibility
+![Braille Trainer With LCD Touch pad](images/braille_bb.jpg)<br/>
+
+
