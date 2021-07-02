@@ -69,4 +69,7 @@ https://supercarers.com/blog/learning-braille-later-in-life
 # Screenshot of Code with on touch compatibility
 ![Braille Trainer With LCD Touch pad](images/brallie_lcd.png)<br/>
 
+# Screenshot of Code with external button compatibility
+![Braille Trainer With external Buttons](images/brallie_button.png)<br/>
+
 
