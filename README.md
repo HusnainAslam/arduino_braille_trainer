@@ -67,6 +67,6 @@ https://supercarers.com/blog/learning-braille-later-in-life
 - User have n lives and can play as much as he wants.
 
 # Screenshot of Code with on touch compatibility
-![Braille Trainer With LCD Touch pad](images/brallie_lcd)<br/>
+![Braille Trainer With LCD Touch pad](images/brallie_lcd.png)<br/>
 
 
