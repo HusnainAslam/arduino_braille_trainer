@@ -74,7 +74,7 @@ https://supercarers.com/blog/learning-braille-later-in-life
 # Intallation Guide for Touch Pad LCD Users
 1. Click the Clone or Download button above and download the zip, or if you are a github user, clone this repo, or fork it!
 2. Unzip arduino_braille_trainer.zip in your Documents/Arduino folder. This properly installs your files.
-3. connect your arduino with sytem and make it ready as you usually do through usb port
+3. connect your arduino with sytem and make it ready as you usually do through usb port.
 4. Install the given external library from zip file to your arduino libarary folder.
 5. ![Open the required code file](images/file_open.png)
 7. Inject the code into arduino and it's ready to use.
@@ -82,9 +82,9 @@ https://supercarers.com/blog/learning-braille-later-in-life
 # Intallation Guide for External Button User
 1. Click the Clone or Download button above and download the zip, or if you are a github user, clone this repo, or fork it!
 2. Unzip arduino_braille_trainer.zip in your Documents/Arduino folder. This properly installs your files.
-3. connect your arduino with sytem and make it ready as you usually do through usb port
+3. connect your arduino with sytem and make it ready as you usually do through usb port.
 4. Install the given external library from zip file to your arduino libarary folder.
 5. ![Open the required code file](images/file_open.png)
-7. Inject the code into arduino and it's ready to use.
+7. Attach the required wires and buttons exactly according to schema image of circuit. ![Braille Circuit Design](images/braille_bb.jpg)<br/>
 
 
