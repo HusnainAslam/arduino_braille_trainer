@@ -72,4 +72,9 @@ https://supercarers.com/blog/learning-braille-later-in-life
 # Screenshot of Code with external button compatibility
 ![Braille Trainer With external Buttons](images/brallie_button.png)<br/>
 
+# Intallation Guide
+1. Click the Clone or Download button above and download the zip, or if you are a github user, clone this repo, or fork it!
+2. Unzip arduino_braille_trainer.zip in your Documents/Arduino folder. This properly installs your files.
+3. open the required code file !(images/open_file.png) <br/>
+
 
