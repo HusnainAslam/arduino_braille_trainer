@@ -57,7 +57,6 @@ https://supercarers.com/blog/learning-braille-later-in-life
 
 # Implementation Phase
 ## Arduino Code implementation and results 
-- Screen Start with random numbers
 - Six Button facility on screen or can be attached externally on bread board (code for both option is available)
 - On Starting screen random alphabets apears then actual Game/program start
 - User enter specific code for the given alphabet either through screen of external buttons
