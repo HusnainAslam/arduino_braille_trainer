@@ -75,6 +75,6 @@ https://supercarers.com/blog/learning-braille-later-in-life
 # Intallation Guide
 1. Click the Clone or Download button above and download the zip, or if you are a github user, clone this repo, or fork it!
 2. Unzip arduino_braille_trainer.zip in your Documents/Arduino folder. This properly installs your files.
-3. ![Open the required code file](images/file_open.png)<br/>
+3. ![Open the required code file](images/file_open.png)
 
 
