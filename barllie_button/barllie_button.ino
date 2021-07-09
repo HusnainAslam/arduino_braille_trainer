@@ -47,6 +47,8 @@ int* sort(int *arr, int s){
 void setup()
 {
   Serial.begin(9600);
+  Serial.println("Welcome to braille trainer");
+  delay(1000);
   randomSeed(analogRead(0));
   rndm = random(26);
 
