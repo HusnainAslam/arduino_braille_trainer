@@ -38,7 +38,10 @@ void setup()
 //  Serial.begin(9600);
   
   //init display
-  lcd.begin(); 
+  lcd.begin();
+  lcd.fillScreen(RGB(255,255,255));
+  lcd.drawText(50, 100, "Welcome ", RGB(255,0,0), RGB(255,255,255), 4);
+  delay(4000);
   randomSeed(analogRead(0));
   rndm = random(26);
   
