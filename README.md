@@ -91,5 +91,8 @@ https://supercarers.com/blog/learning-braille-later-in-life
 # Problems and Solution
 - Due to unavailibilty of pins on arduino uno we have to provide the solution of touch pad. (Most of the pins were occupied by LCD).
 
+# Final Presentation
+https://www.youtube.com/watch?v=3WLNUG7DXZo&ab_channel=FootballMania
+
 # Troubleshooting
 
