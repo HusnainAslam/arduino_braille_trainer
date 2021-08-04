@@ -92,7 +92,7 @@ https://supercarers.com/blog/learning-braille-later-in-life
 - Due to unavailibilty of pins on arduino uno we have to provide the solution of touch pad. (Most of the pins were occupied by LCD).
 
 # Final Presentation
-[![Braille Trainer Using Arduino](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=3WLNUG7DXZo&ab_channel=FootballMania)
+[![Braille Trainer Using Arduino](images/Capture.PNG)](https://www.youtube.com/watch?v=3WLNUG7DXZo&ab_channel=FootballMania)
 
 # Troubleshooting
 
